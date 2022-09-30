@@ -1,0 +1,26 @@
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 200px;
+}
+
+input{
+    width: 300px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: double;
+}
+
+.button{
+    width: 100px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+
+.fondo{
+    width: 40%;
+}

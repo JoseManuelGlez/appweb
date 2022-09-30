@@ -1,0 +1,30 @@
+footer {
+  height: 100px;
+  width: 70%;
+  background-color: rgba(0, 0, 0, 0.842);
+  margin: 0 auto;
+  margin-top: 80px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.logoFacebook, .logoGorjeo, .logoInstagram, .logoWhatsapp {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  margin-left: 13px;
+}
+
+.logoFacebook img, .logoGorjeo img, .logoInstagram img, .logoWhatsapp img{
+  height: 100%;
+  width: 100%;
+  padding-left: 0;
+}
+
+.divPadre{
+  width: 220px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 30px;
+}

@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Mi fuente";
+  src: url("/PROYECTO03/src/font/javanese-text.ttf");
+}
+
+* {
+  margin: 0%;
+}
+
+header {
+  height: 100px;
+  width: 70%;
+  background-color: rgba(0, 0, 0, 0.842);
+  margin: 0 auto;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  padding-left: 100px;
+}
+
+h1 {
+  padding-top: 50px;
+  margin-left: 150px;
+}
+
+h2 {
+  margin-left: 70px;
+}
+
+p {
+  margin-left: 30px;
+}
+
+ul {
+  margin-top: 10px;
+  color: rgb(139, 139, 255);
+}
+
+a {
+  margin-top: 10px;
+  color: rgb(0, 0, 255);
+}
+
+.fondo {
+  height: auto;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 80px;
+  background-color: rgba(0, 0, 0, 0.842);
+  border-radius: 20px 20px;
+  padding-right: 20px;
+}
+
+.anemoculus {
+  height: 500px;
+  width: 700px;
+}
+
+.geoculus {
+  height: 500px;
+  width: 500px;
+}
+
+.electroculus {
+  height: 600px;
+  width: 700px;
+}
+
+.agata {
+  height: 500px;
+  width: 600px;
+}
+
+.dendro {
+  height: 500px;
+  width: 500px;
+}
