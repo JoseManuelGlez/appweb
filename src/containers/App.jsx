@@ -1,11 +1,12 @@
 import Layout from "./Layout";
+import Login from "../components/Login"
 import Registro from "../components/Registro"
 
 function App() {
   return (
     <>
       <Layout>
-      <Registro></Registro>
+      <Login></Login>
       </Layout>
     </>
   );

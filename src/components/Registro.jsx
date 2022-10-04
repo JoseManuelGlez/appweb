@@ -8,11 +8,11 @@ function Registro() {
     const registro=[
         {
             titulo: "Busqueda:",
-            input: "search"       //      (x + x^2) = x(1+x)
+            input: "search"
         },
         {
             titulo: "Nombre:",
-            input: "text"  //<input type="" />
+            input: "text"
         },
         
         {
